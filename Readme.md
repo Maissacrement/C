@@ -1,7 +1,11 @@
 # C
 
+## Linux
+
 compile Linux : 
     - ` gcc -o Test main.c Function/calcul.c `
+
+## Windows
 
 compile Windows :
     - ` gcc -o Test main.c Function/calcul.c `
