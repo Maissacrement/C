@@ -3,7 +3,13 @@
 
 int main(int argc, int *argv[])
 {
-    printf("hello %f\n", power(4));
+    double puissance = power(4);
+    int nb = 8;
+
+    globalChange(&nb);
+
+    printf("Power of 4 is %p\n", &puissance);
+    printf("Nb has changed to %d, local value update\n", nb);
 
     return 0;
 }
