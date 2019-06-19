@@ -20,5 +20,5 @@ That open a new window on the bottom you see ` Variable d'environnement ... ` <b
 A new windows opened on section ` Variables Systeme ` click on ` Path ` <br>
 Again a new windows click on `New` and past ` C:\MinGW\bin ` <br>
 
-you can too see [this](https://www.youtube.com/watch?v=sXW2VLrQ3Bs) link
+You can too see a video [this](https://www.youtube.com/watch?v=sXW2VLrQ3Bs) link
 
