@@ -12,7 +12,7 @@ compile Windows :
 
 Requirement for Windows:
     
-you need install MinGW on [this](https://sourceforge.net/projects/mingw/) link 
+you need download MinGW on [this](https://sourceforge.net/projects/mingw/) link 
 
 you need after go to `Panneau de Configuration > Système et sécurité > Système` <br>
 On the left panel you need click on the last element of list ` Paramètres système avancé ` <br>
@@ -20,5 +20,5 @@ That open a new window on the bottom you see ` Variable d'environnement ... ` <b
 A new windows opened on section ` Variables Systeme ` click on ` Path ` <br>
 Again a new windows click on `New` and past ` C:\MinGW\bin ` <br>
 
-You can too see a video [this](https://www.youtube.com/watch?v=sXW2VLrQ3Bs) link
+You can too see a video tutorial in [this](https://www.youtube.com/watch?v=sXW2VLrQ3Bs) link
 
