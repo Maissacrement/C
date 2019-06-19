@@ -17,3 +17,4 @@ A new windows opened on section ' Variables Systeme ' click on ' Path '
 Again a new windows click on 'New' and past ' C:\MinGW\bin '
 
 you can too see [this](https://www.youtube.com/watch?v=sXW2VLrQ3Bs) link
+
